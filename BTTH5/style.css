@@ -1,0 +1,32 @@
+#information{
+    display: flex;
+    color: cornflowerblue;
+}
+#personal{
+    width: 50%;
+    text-align: center;
+    color: cornflowerblue;
+    margin-right: 10px;
+}
+#application{
+    width: 50%;
+    text-align: center;
+    color: cornflowerblue;
+    margin-left: 10px;
+}
+h5{
+    background: cornflowerblue;
+    color: cornsilk;
+    padding: 10px;
+}
+.character::after{
+    content: "*";
+    color: red;
+}
+.characer-1::before{
+    content: "�";
+    
+}
+h3{
+    color: cornflowerblue;
+}
